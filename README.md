@@ -7,4 +7,7 @@ The cool thing about this particular spinner is that is includes a full gamepad 
 
 I have built my prototype into an Atari 2600 Paddle controller enclosure, and it's perfect for my needs.
 
-This is released under the Unlicense License, so do whatever you want with it! No credit necessary. 
+This is released under the Unlicense License, so do whatever you want with it! No credit necessary.
+
+![Photos of z-Spin inside an Atari paddle controller enclosure](https://www.zachcollier.com/images/z-Spin.jpg)
+
